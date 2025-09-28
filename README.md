@@ -1,3 +1,9 @@
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <h1 align="left">Hi 👋 I'm Behruz</h1>
 
 ###
@@ -16,13 +22,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/behruz-nabizoda-669491238/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BzBxWebufRBi%2BCvky7yESpw%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/ft.bynabi?igsh=Z3N4ejV4NTU5YnRl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="40" alt="instagram logo"  />
   </a>
   <a href="t.me/sabr_sf0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="40" alt="telegram logo"  />
   </a>
 </div>
 
@@ -68,3 +74,40 @@
 </div>
 
 ###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Boost Your English
+Real devs debug in English.
+
+💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
+
+👉 Get 70% OFF 👈
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
